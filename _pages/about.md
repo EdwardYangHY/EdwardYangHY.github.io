@@ -7,24 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-I am **[Your Name]**, a [your position, e.g., PhD student / researcher / engineer] at **[Your Institution]**.
+I am Haoyuan Yang, a PhD student at Center for Robust Speech Systems (CRSS) at UT Dallas, under supervision of John H.L. Hansen.
 
-My work focuses on **[research area 1]**, **[research area 2]**, and **[research area 3]**.
+My work focuses on Speech Generation, Emotional and Expressive Voice Conversion.
 
-I received my [degree] in [field] from [school] in [year]. Before that, I [one-sentence background].
+I received my M.S. in Engineering from Tokyo Tech in 2024. Before that, I studied mathematics in Southease University, Nanjing, China.
 
 Research Interests
 ======
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
-- [Interest 4]
+- Speech Generation
+- Emotion in Speech
+- Audio-Visual Multimodality
 
-Recent Highlights
+Publications
 ======
-- **[Year]**: [Paper/project/award 1]
-- **[Year]**: [Paper/project/award 2]
-- **[Year]**: [Talk/invited presentation/achievement]
+- **[Year]**: H. Yang, M. Yang, J. Xie, S. Chen and JHL Hansen. "Emotion-Aware Prefix: Towards Explicit Emotion Control in Voice Conversion Models." arXiv preprint. Submitted to Interspeech 2026.
+- **[2025]**: H. Yang, Y. Zhang, L. Jing and JHL Hansen. "Speech Recognition on TV Series with Video-guided Post-Correction." arXiv preprint. Submitted to Interspeech 2026.
+- **[2024]**: Z. Zhou, **H. Yang** and T. Shinozaki, "Self-Supervised Speaker Verification with Adaptive Threshold and Hierarchical Training," IEEE ICASSP 2024.
+
+
 
 Current Projects
 ======
